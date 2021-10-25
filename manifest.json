@@ -1,0 +1,11 @@
+{
+    "name": "Consulta CEP",
+    "version": "1.0",
+    "author": "Junior Paula",
+    "description": "Realiza consulta de endereço através do cep.",
+    "browser_action": {
+        "default_popup": "index.html"
+    },
+    "manifest_version": 2
+
+}
